@@ -1,6 +1,6 @@
-# my-projects
+## my-projects
 *Stones_Paper_Scissors
-#Technology
+##Technology
 *html
 *css
 *js
